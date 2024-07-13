@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UCC IT APP</string>
+    <string name="faculty_staff_directory">Faculty/Staff Directory</string>
+    <string name="courses">Courses</string>
+    <string name="admissions">Admissions</string>
+    <string name="social_media">Social Media</string>
+    <string name="email_fab">Email FAB</string>
+    <string name="social_media_content_description">Social media feeds</string>
+    <string name="social_media_tabs_description">Tabs for navigating social media feeds</string>
+</resources>
